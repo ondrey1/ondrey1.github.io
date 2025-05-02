@@ -409,13 +409,11 @@ body {
 
 .name div {
    margin-bottom: 0.3em;
-   /* текст выводится заглавными буквами */
-   text-transform: uppercase;
+
 }
 
 .list {
-   /* текст выводится заглавными буквами */
-   text-transform: uppercase;
+
    /* размер шрифта */
    font-size: 1.25vw;
    /* отступы между строчками */
