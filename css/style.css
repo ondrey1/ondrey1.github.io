@@ -511,12 +511,12 @@ a:hover {
    linear - линейность воспроизведения (можно заменить на ease)
    forwards - после проигрывания остаётся конечное положение Марио
     */
-   animation: jump 1.9s linear 1 forwards;
+   animation: jump 2.9s linear 1 forwards;
 }
 
 .mario.jump .mario-img {
    position: relative;
-   animation: rotate_img 1.5s linear 1 forwards;
+   animation: rotate_img 2.1s linear 1 forwards;
 }
 
 @keyframes jump {
