@@ -336,14 +336,14 @@ body {
    height: 25.35vw;
 }
 
-@media (max-width:1000px) {
+@media (max-width:1440px) {
    .foto {
       width: 28.52vw;
       height: 35.64vw;
    }
 }
 
-@media (max-width:866px) {
+@media (max-width:1024px) {
    .foto {
       width: 51.44vw;
       height: 44.56vw;
